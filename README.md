@@ -1,4 +1,4 @@
 # Interview Bit
 
--   **_[Programming]()_**
-    -   **_[Time Complexity]()_**
+### Programming
+* **_[Time Complexity](https://github.com/Razeen-Shaikh/interview-bit/tree/main/programming)_**
